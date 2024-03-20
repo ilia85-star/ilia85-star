@@ -1,4 +1,9 @@
 ### Hi there 👋
+I'm ilia. I'm a highschooler 🏫 with some programming 👨‍💻 skills. I use Arch Linux as my main OS and I'm good at python 🐍. (I know and code with c++ and flutter too)
+
+I'm currently busy with my school 🏫, but I still code a bit.
+
+I'm always ready to learn something new, so feel free to teach me anything!✨
 
 <!--
 **ilia85-star/ilia85-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
